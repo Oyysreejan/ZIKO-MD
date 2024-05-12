@@ -1,7 +1,7 @@
 {
-  "name": "mranjan-V2",
+  "name": "ZIKO-MD",
   "version": "2.0.0",
-  "description": "mr-anjan simple multi device WhatsApp Bot.",
+  "description": "ZIKO-MD simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
