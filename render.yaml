@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: mr-anjanV2
+    name: ZIKO-MD
     env: node
     branch: main
-    repo: https://github.com/Rudraraj3/Mr-anjannewbot.git
+    repo: https://github.com/Oyysreejan/ZIKO-MD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
@@ -12,13 +12,13 @@ services:
       - key: SESSION_ID
         sync: false
       - key: BOT_INFO
-        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
+        value: 〆͎𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»;〆͎𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
       - key: ALWAYS_ONLINE
         value: true
       - key: AUTO_STATUS_VIEWS
         value: true
       - key: AUDIO_DATA
-        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
+        value: 〆͎𝐙𝐈𝐊𝐎-𝐌𝐃👀🦋 ː͢»;ziko👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4
       - key: HANDLER
         value: /
       - key: WORK_TYPE
@@ -26,11 +26,11 @@ services:
       - key: SERVER
         value: render
       - key: CAPTION
-        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»🌈
+        value: 〆͎𝐙𝐈𝐊𝐎-𝐌𝐃👀🦋 ː͢»🌈
       - key: STICKER_DATA
-        value: 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»
+        value: 〆͎𝐙𝐈𝐊𝐎-𝐌𝐃👀🦋 ː͢»;ziko👀🦋 ː͢»
       - key: SUDO
-        value: 919883457657
+        value: 917439382677
       - key: SERVERURL
         value:
       - key: DATABASE_URL
