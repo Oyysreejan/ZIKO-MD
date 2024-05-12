@@ -16,11 +16,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || '^[.]',
   BRANCH: "main",
   WARN_COUNT: 3,
-  STICKER_DATA: process.env.STICKER_DATA || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
-  BOT_INFO: process.env.BOT_INFO || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4",
-  AUDIO_DATA: process.env.AUDIO_DATA || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://graph.org/file/3879cf1910f65bd8457d7.jpg",
+  STICKER_DATA: process.env.STICKER_DATA || "𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»;𝐙𝐢𝐤𝐨-𝐌𝐝 ː͢»",
+  BOT_INFO: process.env.BOT_INFO || "𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4",
+  AUDIO_DATA: process.env.AUDIO_DATA || "𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://graph.org/file/3879cf1910f65bd8457d7.jpg",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
-  CAPTION: process.env.CAPTION || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+  CAPTION: process.env.CAPTION || "𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»",
   WORK_TYPE: process.env.WORK_TYPE || "private",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
@@ -42,6 +42,6 @@ module.exports = {
         }),
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
-  SUDO: process.env.SUDO || "0",
+  SUDO: process.env.SUDO || "917439382677",
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
 };
