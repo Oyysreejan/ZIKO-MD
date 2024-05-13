@@ -39,7 +39,7 @@
 </a>
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
-- [〆Mr-anjan👀🦋 ː͢»](https://github.com/rudraraj3)
+- [〆OYY-SREEJAN👀🦋 ː͢»](https://github.com/Oyysreejan)
 <br><br>
 
 ***
