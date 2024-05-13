@@ -51,7 +51,7 @@ command(
       });
         text += "\n\n*MR-ANJAN*"
       return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "★᭄☞⃟𝐌𝐫-𝐚𝐧𝐣𝐚𝐧😈᭄★𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", contextInfo: { externalAdReply: {
-title: "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+title: "〆𝐙ik𝐎-𝐌𝐃👀🦋 ː͢»",
 body: "",
 sourceUrl: "",
 mediaUrl: "",
@@ -86,7 +86,7 @@ command(
     message.sendMessage(
       buff,
       { packname: config.STICKER_DATA.split(";")[0], author: config.STICKER_DATA.split(";")[1], contextInfo: { externalAdReply: {
-title: "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+title: "〆𝐙ik𝐎-𝐌𝐃👀🦋 ː͢»",
 body: "𝘾𝙤𝙣𝙫𝙚𝙧𝙩𝙚𝙙 𝙄𝙣𝙩𝙤 𝙎𝙩𝙞𝙘𝙠𝙚𝙧",
 sourceUrl: "",
 mediaUrl: "",
@@ -167,7 +167,7 @@ command(
       {
         packname: packname || config.STICKER_DATA.split(";")[0],
         author: author || config.STICKER_DATA.split(";")[1], contextInfo: { externalAdReply: {
-title: "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+title: "〆𝐙ik𝐎-𝐌𝐃👀🦋 ː͢»",
 body: `𝙏𝙖𝙠𝙚𝙙 𝙏𝙤 ${match}`,
 sourceUrl: "",
 mediaUrl: "",
