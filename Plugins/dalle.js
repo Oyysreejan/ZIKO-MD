@@ -10,5 +10,5 @@ command(
     async (message, match, m) => {
 match = match || message.reply_message.text;
 	if(!match) return await message.reply(`*_Need A Text_*\n*eg:- .dalle a modified gtr in garage*`);
-await message.sendFromUrl(`https://cute-tan-gorilla-yoke.cyclic.app/imagine?text=${match}`, {caption: "*〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»*"})
+await message.sendFromUrl(`https://cute-tan-gorilla-yoke.cyclic.app/imagine?text=${match}`, {caption: "*〆͎𝐙𝐢𝐤𝐨-𝐌𝐝👀🦋 ː͢»*"})
 });
