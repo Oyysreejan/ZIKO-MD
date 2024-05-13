@@ -9,7 +9,7 @@ command(
   },
   async (message, match, mm) => {
     let zeta = X.SUDO
-message.reply("```" + `SUDO number are : ${zeta}` + "```")
+message.reply("```" + `ZIKO SUDO number are : ${zeta}` + "```")
   }
 );
 
